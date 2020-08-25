@@ -1,0 +1,12 @@
+2019.12.10
+	1、eclipse向上/下复制一行（或者多行）的快捷键（ctrl alt down）失效？
+	解决：https://www.cnblogs.com/xiaostudy/p/9515006.html
+	2、如何在ECLIPSE环境下远程DEBUG 已经发布的RCP产品？
+	解决：https://www.iteye.com/blog/whywjf-1263909
+	3、检查电脑磁盘坏道信息？
+	解决：工具：DiskGenius      我的电脑坏道柱面：96512、96515、96516、100813
+	4、使用String时，当属性值未初始化时，值为null;初始化后，所有的比较都是按String类型来；
+	5、正则查找java类中的所有注释：(//[^\n]*)|((/[*]([*@]|[\n]|\\w|\\d|\\s|[^\\x00-\\xff])+[*]/))
+2020.02.29
+	1、Linux普通用户切换到root用户：sudo -i ，回车即可；
+	2、给linux命令创建别名(快捷键)：比如，清屏：clear-->alias cls='clear';接下来就可以使用“cls”清屏了。(当然，alias命令用来设置指令的别名。我们可以使用该命令可以将一些较长的命令进行简化。alias命令的作用只局限于该次登入的操作。若要每次登入都能够使用这些命令别名，则可将相应的alias命令存放到bash的初始化文件/etc/bashrc中。)
